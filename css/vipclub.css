@@ -491,8 +491,8 @@ position: relative;
     color: #333;
 }
 .div1 .btn{
-	    display:block;
-  
+	display:block;
+  	cursor:pointer;
     vertical-align: middle;
     font-size: 15px;
     text-align: center;
